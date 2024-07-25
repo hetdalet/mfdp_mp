@@ -1,0 +1,6 @@
+[core]
+    remote = s3_mfdp
+['remote "s3_mfdp"']
+    url = s3://a-asbudaevyandexru-1/mfdp
+    use_ssl = false
+    endpointurl = http://194.180.188.67:9020

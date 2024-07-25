@@ -1,0 +1,5 @@
+outs:
+- md5: 46e117d8e671cb8d66b5e9b03770380d
+  size: 2183700
+  hash: md5
+  path: mode.bin
